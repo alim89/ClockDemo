@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClockDemo</string>
+    <string name="buttontext">Exit</string>
+    <string name="alert">Alert Title</string>
+    <string name="message">Do you want to Exit</string>
+
+
+
+</resources>
